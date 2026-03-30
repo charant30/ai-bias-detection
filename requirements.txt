@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit-antd-components
+xgboost
+lightgbm
+imbalanced-learn
+fairlearn
