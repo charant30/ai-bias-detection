@@ -2,7 +2,8 @@
 
 A lightweight web-based Streamlit application that allows users to train a simple machine learning model and evaluate whether the model produces biased outcomes across different demographic groups. The goal of this project is to help users move beyond standard model accuracy and better understand fairness in AI systems.
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Bias+Detection+Dashboard)
+<img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/66ba10a4-3564-432c-8893-2a9e04ea7985" />
+
 
 ## Features
 - **Data Input**: Upload any tabular CSV dataset or use the built-in synthetic demo dataset.
